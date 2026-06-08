@@ -6,6 +6,7 @@ collected between 1999 and 2012.
 
 ## Dataset
 Source: Kaggle — Amazon Fine Food Reviews  
+Dataset: Amazon Fine Food Reviews — [https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews)  
 Records: 298,376 (after cleaning)  
 Features: Star rating, review text, helpfulness votes, timestamp
 
